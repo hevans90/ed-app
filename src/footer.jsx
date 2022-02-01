@@ -18,3 +18,5 @@ export const Footer = () => {
     </div>
   );
 };
+
+// Ed is lame
